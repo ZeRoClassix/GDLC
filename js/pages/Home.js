@@ -220,7 +220,7 @@ export default {
                     <div class="home-col-right">
                         <div class="card why-card">
                             <div class="card-header">
-                                <h3>Why PCDemonlist?</h3>
+                                <h3>Why GDDemonlist?</h3>
                             </div>
                             <div class="card-body">
                                 <div class="why-item">
